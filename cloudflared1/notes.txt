@@ -1,0 +1,11 @@
+	
+
+Dua nameserver cloudflare:
+1.hattie.ns.cloudflare.com
+2.morgan.ns.cloudflare.com
+
+URL pages.dev portfolio awam dari GitHub + custom domain:
+1.investigationportfoliov2.pages.dev
+2.private.haqqki.com
+
+URL private-site custom subdomain:
