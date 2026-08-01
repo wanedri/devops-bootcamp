@@ -1,0 +1,16 @@
+Docker version 29.5.2, build 79eb04c
+IMAGE                                                                           ID             DISK USAGE   CONTENT SIZE   EXTRA                                                                  28bd5fe8b56d         13MB         3.93MB        
+app:kecil                                                                       08817195805a        104MB         31.2MB        
+binwiederhier/ntfy:latest                                                       081b53dbb206        120MB         35.7MB   U    
+chromadb/chroma:latest                                                          1e0b73a187a2        826MB          176MB   U    
+composer:latest                                                                 805ff9b13d4d        315MB         79.8MB        
+devops-bootcamp/adri:latest                                                     3ab0d82053cc        104MB         31.2MB                                      29eac77fb42c        201MB         49.1MB   U    
+ghcr.io/infratify/arena-server:latest                                           3095d01fd898        195MB         48.7MB   U    
+hello-world:latest                                                              96498ffd522e       25.9kB         9.49kB        
+infratify/card:latest                                                           2414f6668e83         81MB         23.1MB        
+infratify/web:v1                                                                92cffc21fac9       92.5MB           26MB            
+CONTAINER ID   IMAGE                                 COMMAND                  CREATED       STATUS                     PORTS     NAMES
+7dba94adf791   ghcr.io/infratify/arena-avatar        "docker-entrypoint.s…"   2 weeks ago   Exited (0) 2 weeks ago               arena-avatar-1
+8af547134e31   redis                                 "docker-entrypoint.s…"   2 weeks ago   Exited (0) 2 weeks ago               arena-profile-1
+620c4b633344   ghcr.io/infratify/arena-server        "docker-entrypoint.s…"   2 weeks ago   Exited (137) 2 weeks ago             arena-server-1
+
